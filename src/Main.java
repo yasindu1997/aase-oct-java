@@ -38,7 +38,8 @@ public class Main {
 
         /// ///////////////////////////////////
 
-
+        int data = 45;
+        System.out.println(data);
 
     }
 }
